@@ -14,8 +14,8 @@ member
 ## Technical Resources and Data
 | Resource Type | URL | Purpose |
 | :--- | :--- | :--- |
-| **Dataset** | [Roboflow Dashboard](YOUR_LINK_HERE) | Hosted imagery and annotation metadata |
-| **Training Lab** | [Google Colab](YOUR_LINK_HERE) | Model training scripts and performance metrics |
+| **Dataset** | [Roboflow Dashboard](https://universe.roboflow.com/ispyaisolverdata/ispy-ai-project) | Hosted imagery and annotation metadata |
+| **Training Lab** | [Google Colab](https://colab.research.google.com/drive/1zN8oT6azPIjsTrP-FAPz1r29f30O4Bsz?usp=sharing) | Model training scripts and performance metrics |
 
 ## Key Technical Features
 * **Custom Dataset Generation**: Includes over 200 original images captured under diverse environmental conditions.
