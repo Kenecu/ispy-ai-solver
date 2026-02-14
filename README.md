@@ -5,6 +5,8 @@
 This project utilizes Computer Vision and Deep Learning techniques to solve complex "I-Spy" visual puzzles. By implementing a custom TensorFlow model, the system is designed to perform object localization within highly cluttered environments. The model is trained to recognize specific targets across varying lighting conditions, angles, and backgrounds.
 
 ## The Project Team
+| Name |
+| :--- |
 Kenneth Chow |
 member |
 member |
