@@ -1,3 +1,9 @@
+#added
+data/
+models/
+.ipynb_checkpoints/
+__pycache__/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
