@@ -9,8 +9,6 @@ Kenny
 member
 member
 
-|Implementation |
-
 ---
 
 ## Technical Resources and Data
