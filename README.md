@@ -1,1 +1,36 @@
-# ispy-ai-solver
+# Project: I-Spy AI Object Solver
+**UConn Data Science & Engineering | Automated Object Detection System**
+
+## Project Description
+This project utilizes Computer Vision and Deep Learning techniques to solve complex "I-Spy" visual puzzles. By implementing a custom TensorFlow model, the system is designed to perform object localization within highly cluttered environments. The model is trained to recognize specific targets across varying lighting conditions, angles, and backgrounds.
+
+## The Project Team
+Kenny
+member
+member
+
+|Implementation |
+
+---
+
+## Technical Resources and Data
+| Resource Type | URL | Purpose |
+| :--- | :--- | :--- |
+| **Dataset** | [Roboflow Dashboard](YOUR_LINK_HERE) | Hosted imagery and annotation metadata |
+| **Training Lab** | [Google Colab](YOUR_LINK_HERE) | Model training scripts and performance metrics |
+
+## Key Technical Features
+* **Custom Dataset Generation**: Includes over 200 original images captured under diverse environmental conditions.
+* **Transfer Learning Implementation**: Utilizes a pre-trained SSD MobileNet backbone for efficient inference.
+* **Automated Localization**: Provides real-time bounding-box visualization for all identified target classes.
+
+## Technology Stack
+* **Languages**: Python 3.9+
+* **Core Frameworks**: TensorFlow 2.x, OpenCV
+* **Development Tools**: Git, GitHub, Roboflow, VS Code
+
+## Project Directory Structure
+* `/data`: Local directory for raw image storage (Git-ignored).
+* `/models`: Storage for serialized model weights and saved checkpoints.
+* `/notebooks`: Interactive Jupyter/Colab notebooks for development.
+* `/scripts`: Production-ready Python files for model execution.
